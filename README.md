@@ -1,4 +1,4 @@
-# 🚀 Starter
+# Starter
 
 A clean, minimal front-end starter template for quickly kicking off web projects — no frameworks, no build tools, just pure HTML, CSS, and JavaScript ready to go.
 
